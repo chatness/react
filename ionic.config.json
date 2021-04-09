@@ -1,0 +1,7 @@
+{
+  "name": "chatness-react",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
